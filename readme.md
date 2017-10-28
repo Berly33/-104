@@ -1,1 +1,1 @@
-![104renwu](./img/news-1.jpg)
+![104renwu](./cd.png)
